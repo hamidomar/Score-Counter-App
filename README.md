@@ -1,5 +1,7 @@
 # Score Counter App
  Web app to count keep score count. Uses HTML, Javascript and Bulma 
+ 
+ Please note that this project is part of a code along present in the udemy web development course by Colt Steele   
 
 The screenshot below shows default view of the web app 
 
